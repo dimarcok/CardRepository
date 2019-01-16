@@ -6,7 +6,7 @@ public class CardDealer {
         card1.setSuit("diamonds");
         System.out.println(card1.getSuit());
         System.out.println(card1.getValue());
-        
+        System.out.println("Added this change at the end");
         
     }
 }
